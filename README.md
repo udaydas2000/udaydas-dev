@@ -1,4 +1,4 @@
-# Hi, I'm Uday Das 👋
+# Hi, I'm Uday Das!!
 
 💻 Aspiring Software Developer  
 🎓 BCA Graduate | Brainware University  
@@ -35,4 +35,4 @@
 
 ---
 
-⭐ "Always learning, always building"
+"Always learning, always building"
